@@ -1,2 +1,2 @@
 var mensagemElement =  document.getElementById("mensagem");
-mensagemElement.textContent = "Hello, world!"
+mensagemElement.textContent = "Hello, world!";
