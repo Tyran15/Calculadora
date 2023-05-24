@@ -1,0 +1,17 @@
+*{
+    background-color: rgb(255, 187, 171);
+}
+
+input{
+    background-color: white;
+    border: none;
+    border-radius: 5px;
+    width: 25%;
+    height: 500px;
+    text-align: center;
+    font-size: 100px;
+}
+button{
+    background-color: white;
+    border: none;
+}
